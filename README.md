@@ -7,24 +7,3 @@ The input consists of:
 3. Then, a single line with the alphabet of M. Symbols are separated by a single blank space.
 4. Then, the final states of M separated by blank spaces.
 5. Finally, n lines, one for each state. Each line contains a row of the table that represents M.
-
-An input example for the code could be:
-2
-6
-a b
-1 2 5
-0 1 2
-1 3 4
-2 4 3
-3 5 5
-4 5 5
-5 5 5
-6
-a b
-3 4 5
-0 1 2
-1 3 4
-2 4 3
-3 5 5
-4 5 5
-5 5 5
